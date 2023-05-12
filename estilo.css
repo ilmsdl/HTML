@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body
+{
+    background-color: wheat;
+}
+.titulo__primeiro
+{
+    color: green;
+    font-size: 42px;
+    font-family: 'Pacifico', cursive;   
+}
+
+.paragrafo__ingredientes 
+{
+    color: purple;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.ingredientes 
+{
+    color: orangered;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.paragrafo__armazenamento 
+{
+    color: green;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.titulo__segundo
+{
+    color: green;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;   
+}
+
+.titulo__terceiro
+{
+    color: green;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive; 
+}
+
+.instrucoes
+{
+    color: orangered;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.paragrafo__instrucoes
+{
+    color: purple;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.titulo__quarto
+{
+    color: green;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
+
+.paragrafo__armazenamento 
+{
+    color: purple;
+    font-size: 24px;
+    font-family: 'Pacifico', cursive;
+}
